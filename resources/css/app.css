@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .rotate-y-12 {
+        transform: rotateY(12deg);
+    }
+}
